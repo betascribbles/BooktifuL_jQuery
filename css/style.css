@@ -1,0 +1,36 @@
+/* contains style for all pages */
+
+body {
+    /* background-color: #76a9e0; */
+    background-image: url("../img/background.jpg");
+    background-color: #92a0a5;
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center {
+    margin: auto;
+    margin-top: 50px;
+}
+
+#header {
+    font-family: 'Bookman', serif;
+    font-size: 3rem;
+    font-weight: 900;
+    color: rgb(28, 14, 221);
+    border-radius: 5px;
+    background-color: rgb(108, 164, 179);
+}
+
+h2 {
+    font-family: 'Righteous', serif
+}
+
+.book-list {
+    margin-top: 50px;
+    visibility: hidden;
+}
