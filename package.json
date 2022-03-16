@@ -1,0 +1,22 @@
+{
+  "name": "booktiful_jquery",
+  "version": "1.0.0",
+  "description": "A book ereader built with the GoogleBooks API",
+  "main": "login.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betascribbles/BooktifuL_jQuery.git"
+  },
+  "author": "Firdaus H. Salim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betascribbles/BooktifuL_jQuery/issues"
+  },
+  "homepage": "https://github.com/betascribbles/BooktifuL_jQuery#readme"
+}
