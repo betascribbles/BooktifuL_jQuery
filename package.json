@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/betascribbles/BooktifuL_jQuery/issues"
   },
-  "homepage": "https://github.com/betascribbles/BooktifuL_jQuery#readme"
+  "homepage": "https://github.com/betascribbles/BooktifuL_jQuery#readme",
+  "dependencies": {
+    "express-session": "^1.17.2",
+    "session": "^0.1.0"
+  }
 }
