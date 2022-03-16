@@ -1,5 +1,3 @@
-/* contains style for login.html */
-
 body {
     margin: 0;
     padding: 0;
@@ -8,13 +6,13 @@ body {
     align-items: center;
     min-height: 100vh;
     font-family: 'Jost', sans-serif;
-    background: linear-gradient(to bottom, #4a39e7, rgb(159, 81, 204), rgb(108, 164, 179));
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
 }
 
 .main {
     width: 350px;
     height: 500px;
-    background: rgb(214, 198, 198);
+    background: red;
     overflow: hidden;
     background: url("https://doc-08-2c-docs.googleusercontent.com/docs/securesc/68c90smiglihng9534mvqmq1946dmis5/fo0picsp1nhiucmc0l25s29respgpr4j/1631524275000/03522360960922298374/03522360960922298374/1Sx0jhdpEpnNIydS4rnN4kHSJtU1EyWka?e=view&authuser=0&nonce=gcrocepgbb17m&user=03522360960922298374&hash=tfhgbs86ka6divo3llbvp93mg4csvb38") no-repeat center/ cover;
     border-radius: 10px;
@@ -45,7 +43,7 @@ label {
 input {
     width: 60%;
     height: 20px;
-    background: #dbcfcf;
+    background: #e0dede;
     justify-content: center;
     display: flex;
     margin: 20px auto;
@@ -62,7 +60,7 @@ button {
     justify-content: center;
     display: block;
     color: #fff;
-    background: rgb(28, 14, 221);
+    background: #573b8a;
     font-size: 1em;
     font-weight: bold;
     margin-top: 20px;
@@ -74,7 +72,7 @@ button {
 }
 
 button:hover {
-    background: rgb(108, 164, 179)
+    background: #6d44b8;
 }
 
 .login {
