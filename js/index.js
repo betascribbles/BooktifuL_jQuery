@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    var item, tile, author, publisher, bookLink, bookImg;
+    var item, title, author, publisher, bookLink, bookImg;
     var outputList = document.getElementById("list-output");
     var bookUrl = "https://www.googleapis.com/books/v1/volumes?q=";
     var apiKey = "key=AIzaSyAXq5QWXw5NO27Whgtwv6MYClm34vZG88o";
