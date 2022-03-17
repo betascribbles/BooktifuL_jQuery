@@ -1,5 +1,11 @@
 /* contains style for index.html */
 
+.logo {
+    width: 20%;
+    margin: 5%;
+    border-radius: 400px;
+}
+
 body {
     /* background-color: #76a9e0; */
     background-image: url("../img/background.jpg");
