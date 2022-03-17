@@ -8,17 +8,25 @@
 </head>
 
 <body>
-    <div>
-        <img class="logo" id="logo_img" src="img/BooktifuL-logo.png" alt="BooktifuL logo">
-    </div>
-    <div class="container">
-        <div id="title" class="center">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm">
+                <img class="logo" id="logo_img" src="img/BooktifuL-logo.png" alt="BooktifuL logo">
+            </div>
 
-            <div class="row">
-                <div id="input" class="input-group mx-auto col-lg-6 col-md-8 col-sm-12">
-                    <input id="search-box" type="text" class="form-control" placeholder="Enter book title...">
-                    <button id="search" class="btn btn-primary" onclick="">Search</button>
+            <div class="col-sm">
+
+                <div class="pull-right">
+                    <div id="input" class="d-flex  mt-5 input-group  col-lg-6 col-sm-12">
+                        <input id="search-box" type="text" class="form-control" placeholder="Enter book title...">
+                        <button id="search" class="btn px-2 btn-primary" onclick="">Search</button>
+                    </div>
                 </div>
+            </div>
+            <div>
+                <form action="index.html">
+                    <button id="logout" class="btn px-2 col-sm btn-primary" onclick="">Logout</button>
+                </form>
             </div>
         </div>
         <div class="book-list">
