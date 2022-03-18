@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 	<head>
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -9,81 +10,71 @@
 		<link rel="stylesheet" href="buttons.css" />
 		<title>BooktifuL</title>
 	</head>
+
 	<body>
 		<div class="top">
 			<div>
-				<img
-					id="booktiful_logo"
-					src="BooktifuL-logo.png"
-					alt="Booktiful logo"
-					class="logo_img"
-				/>
+				<img id="booktiful_logo" src="BooktifuL-logo.png" alt="Booktiful logo" class="logo_img" />
 			</div>
 			<div>
-				<form
-					action="https://betascribbles.github.io/BooktifuL_jQuery/"
-					method="get"
-				>
+				<form action="https://betascribbles.github.io/BooktifuL_jQuery/" method="get" target="_blank">
 					<button class="login_signup">Login/Signup</button>
 				</form>
 			</div>
 			<div>
-				<a href="./screenshot.html">screenshot</a>
+				<a href="./screenshot.html" target="_blank">Features</a>
 				<a href="#about">About</a>
+				<a href="#video">Demo</a>
 			</div>
 		</div>
 		<div>
-			<p>
-				Booktiful is simple book app that displays books from the
-				google-books-api
-			</p>
+			<h2 id="tagline">
+				<i>The Readers' Platform</i>
+			</h2>
 		</div>
 
-		<div id="about">
-			<h3>About BooktifuL</h3>
+		<div id="about" class="text_content">
+			<h2>About BooktifuL</h2>
 			<p>
 				Readers are everywhere, so are books. As a reader, I came to realize
 				that it is not easy to source books and obtain a readable copy. That's
 				why I developed BooktifuL to make it a stop-shop for all books readers
 				dream about.
 			</p>
-			<form
-				action="https://github.com/betascribbles/BooktifuL_jQuery"
-				method="get"
-			>
-				<button class="login_signup">Source Code</button>
+			<p>I developed this project in a span of 2 weeks as my portfolio project to conclude the end of foundations
+				curriculum of
+				the Holberton School Software Engineering Program.</p>
+			<form action="https://github.com/betascribbles/BooktifuL_jQuery" method="get" target="_blank">
+				<button id="code" class="login_signup">Source Code</button>
 			</form>
 		</div>
+		<div id="video">
+			<div style="padding:56.16% 0 0 0;position:relative;"><iframe
+					src="https://player.vimeo.com/video/689217985?h=03de8d36c4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+					frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
+					style="position:absolute;top:0;left:0;width:100%;height:100%;"
+					title="New Recording - 3/17/2022, 1:25:21 PM"></iframe></div>
+			<script src="https://player.vimeo.com/api/player.js"></script>
+		</div>
+
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="social-wrapper">
 				<ul>
 					<li>
 						<a href="https://twitter.com/BetaScribbles" target="_blank">
-							<img
-								src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png"
-								alt="Twitter Logo"
-								class="twitter-icon"
-						/></a>
+							<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png"
+								alt="Twitter Logo" class="twitter-icon" /></a>
 					</li>
 
 					<li>
-						<a
-							href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/"
-							target="_blank"
-						>
-							<img
-								src="https://img.icons8.com/color/344/linkedin-circled--v3.png"
-								alt="Linkedin Logo"
-								class="linkedin-icon"
-						/></a>
+						<a href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/" target="_blank">
+							<img src="https://img.icons8.com/color/344/linkedin-circled--v3.png" alt="Linkedin Logo"
+								class="linkedin-icon" /></a>
 					</li>
 					<li>
 						<a href="https://github.com/betascribbles" target="_blank">
-							<img
-								src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png"
-								alt="Facebook Logo"
-								class="github-icon"
-						/></a>
+							<img src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png"
+								alt="Facebook Logo" class="github-icon" /></a>
 					</li>
 				</ul>
 			</div>
@@ -100,4 +91,5 @@
 
 		<script src="index.js"></script>
 	</body>
+
 </html>

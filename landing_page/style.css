@@ -36,20 +36,16 @@ body{
     border-radius: 5%;
 }
 
-
-.social-footer {
-  padding: 1rem;
-  background: #8a8a8a;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+.text_content{
+    margin-left:15%;
+     margin-right:15%;
 }
 
-
+#video{
+    margin: 10%;
+}
+#tagline{
+    text-align: center;
+    font-style: italic;
+}
 

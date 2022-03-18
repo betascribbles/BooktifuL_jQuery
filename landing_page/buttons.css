@@ -1,7 +1,7 @@
 
 .login_signup {
-  background-color: hsl(0,80%,40%);
-	border: 1px solid hsl(0,80%,30%);
+  background-color: rgb(99, 184, 20);
+	border: 1px solid rgb(15, 15, 15);
 }
 
 button {
