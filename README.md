@@ -12,7 +12,11 @@
 [Firdaus H. Salim](https://linktr.ee/firdaus_h_salim) is a software engineer with interests in solving real-world problems with technology and dependable leadership. An avid reader exploring information technology advancements and personal development through books. 
 
 <a href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+</a>
+
+<a href="https://twitter.com/betascribbles" rel="nofollow noreferrer">
+    <img src="https://imgur.com/gallery/yXAAX" alt="twitter">
 </a>
 
 ## BooktifuL Web Architecture
