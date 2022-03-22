@@ -13,10 +13,8 @@
 
 <a href="https://www.linkedin.com/in/firdaus-h-salim-73589118b/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
-</a>
-
-<a href="https://twitter.com/betascribbles" rel="nofollow noreferrer">
-    <img src="https://imgur.com/gallery/yXAAX" alt="twitter">
+</a><a href="https://twitter.com/betascribbles" rel="nofollow noreferrer">
+    <img src="http://i.imgur.com/tXSoThF.png" alt="twitter">
 </a>
 
 ## BooktifuL Web Architecture
