@@ -7,3 +7,5 @@ A simple book app that displays books from the google-books-api
 - [BooktifuL_jQuery](https://github.com/betascribbles/BooktifuL_jQuery) : written in plain jQuery
 - [Booktiful_Flask](https://github.com/betascribbles/BooktifuL_flask) : made with Flask framework
 
+## BooktifuL Web Architecture
+<img src="img/web app architecture.png" width=70% height=70%/>
