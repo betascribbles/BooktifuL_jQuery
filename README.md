@@ -8,6 +8,13 @@
         - Password - TestTest
 - [Blog post]()
 
+## BooktifuL Web Architecture
+<img src="img/web app architecture.png" width=70% height=70%/>
+
+## Editions
+- [BooktifuL_jQuery](https://github.com/betascribbles/BooktifuL_jQuery) : written with Vanilla JS and jQuery
+- [Booktiful_Flask](https://github.com/betascribbles/BooktifuL_flask) : made with Flask framework
+
 ## About the author
 [Firdaus H. Salim](https://linktr.ee/firdaus_h_salim) is a software engineer with interests in solving real-world problems with technology and dependable leadership. An avid reader exploring information technology advancements and personal development through books. 
 
@@ -17,10 +24,14 @@
     <img src="http://i.imgur.com/tXSoThF.png" alt="twitter">
 </a>
 
-## BooktifuL Web Architecture
-<img src="img/web app architecture.png" width=70% height=70%/>
+## Usage
+See [landing page](https://booktiful.netlify.app)
 
+## Contribution
+This app is open for public contribution. Submit a pull request.
 
-## Editions
-- [BooktifuL_jQuery](https://github.com/betascribbles/BooktifuL_jQuery) : written in plain jQuery
-- [Booktiful_Flask](https://github.com/betascribbles/BooktifuL_flask) : made with Flask framework
+## Screenshots
+<img src="img/login_html.png" width=70% height=70%/>
+<img src="img/index_html.png" width=70% height=70%/>
+<img src="img/books.png" width=70% height=70%/>
+<img src="img/previewer.png" width=70% height=70%/>
