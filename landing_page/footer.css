@@ -1,7 +1,7 @@
 .site-footer {
-  background-color: #0c0c0c;
+	background-color: #0c0c0c;
 	text-align: center;
-    color: aliceblue;
+	color: aliceblue;
 	margin: 10px 0;
 	padding: 10px 0;
 }
@@ -22,23 +22,19 @@
 
 .twitter-icon,
 .github-icon,
-.linkedin-icon{
-	margin-top: .625em;
+.linkedin-icon {
+	margin-top: 0.625em;
 	width: 40px;
 	height: 40px;
-	opacity: .6;
+	opacity: 0.6;
 	filter: alpha(opacity=60); /* For IE8 and earlier */
-  border-radius: 25px;
+	border-radius: 25px;
 }
 
 .twitter-icon:hover,
-.facebook-icon:hover,
-.instagram-icon:hover,
-.linkedin-icon:hover,
-.googleplus-icon:hover,
-.youtube-icon:hover,
-.foursquare-icon:hover {
-	opacity: 1.0;
+.github-icon:hover,
+.linkedin-icon:hover {
+	opacity: 1;
 	filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
