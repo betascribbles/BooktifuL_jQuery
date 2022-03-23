@@ -1,51 +1,84 @@
+/* styling the header */
+* {
+	box-sizing: border-box;
+}
+#booktiful_logo {
+	width: 20%;
+	margin: 2%;
+	border-radius: 400px;
+	padding: 0px;
+}
+
 body{
-    min-width: none;
-}
-#booktiful_logo{
-    width: 20%;
-    margin: 2%;
-    border-radius: 400px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
-.top{
-    background-color: rgb(205, 245, 245);
-    padding: 5px;
+.navbar{
     display: flex;
-    
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    color: black;
 }
 
-.section{
-    margin-top: 1em;
-    padding: 20px;
+.brand-title{
+    font-size:  2.5rem;
+    margin: .5rem;
+}
+
+.navbar-links ul{
+    margin: 0;   
+    padding: 0;
     display: flex;
-    height: 400px;
 }
 
-.text{
-    flex: 1;
-    margin-right: 20px;
-    background-color: rgb(165, 165, 233);
-    border-radius: 5%;
-    padding: 5%;
+.navbar-links li{
+    list-style: none;
 }
 
-.placeholder_img{
-    width: 500px;
-    height: 400px;
-    border-radius: 5%;
+.navbar-links li a{
+    text-decoration: none;
+    color: black;
+    padding: 1rem;
+    display: block;
 }
 
-.text_content{
-    margin-left:15%;
-     margin-right:15%;
+.navbar-links li:hover{
+    background-color: antiquewhite;
 }
 
-#video{
-    margin: 10%;
-}
-#tagline{
-    text-align: center;
-    font-style: italic;
+.section {
+	margin-top: 1em;
+	padding: 20px;
+	display: flex;
+	height: 400px;
 }
 
+/* text appearance */
+.text {
+	flex: 1;
+	margin-right: 20px;
+	background-color: rgb(165, 165, 233);
+	border-radius: 5%;
+	padding: 5%;
+}
+
+.placeholder_img {
+	width: 500px;
+	height: 400px;
+	border-radius: 5%;
+}
+
+.text_content {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#video {
+	margin: 10%;
+}
+#tagline {
+	text-align: center;
+	font-style: italic;
+}
